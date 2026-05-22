@@ -1,6 +1,6 @@
 
-#  About Me:
-I’m currently working on Data & AI <br>I’m currently learning Python,Machine Learning,<br>I’m looking for help with improving my coding and problem-solving skills<br>Ask me about Data Analytics, Python, Power BI, and Tech<br>How to reach me:  GitHub<br>Pronouns: He/Him<br>Fun fact: I love coding and exploring new tech trends 🚀<br>
+Hi there! 
+I’m Rai, currently working on Data & AI <br>I’m currently learning Python,Machine Learning,<br>Fun fact: I love coding and exploring new tech trends 🚀<br>
 
 
 ## Socials:
