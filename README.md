@@ -1,6 +1,6 @@
 
-Hi there! 
-I’m Rai, currently working on Data & AI <br>I’m currently learning Python,Machine Learning,<br>Fun fact: I love coding and exploring new tech trends 🚀<br>
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+I’m Rai, Aspiring Data Analyst with a passion for coding, AI, and problem-solving building projects with Python, Power BI & APIs while continuously learning new tech, Currently looking for internship opportunities to gain real-world experience and grow in the tech industry exploring Data Analytics, Machine Learning, and creative tech solutions, Fueled by curiosity, late-night debugging, and coffee
 
 
 ## Socials:
